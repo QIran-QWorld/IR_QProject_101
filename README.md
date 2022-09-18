@@ -4,7 +4,6 @@ QIran's QProject101 (IR_QProject_101) is a **12 week** long research program des
 Please read the whole document before asking any questions. You may join the discord server of QIran to connect with us directly.
 The following represents the description of each research project.
 
-| --------------------------------------------------------------------------------- |
 ### #01: Bidirectional Controlled Hybrid Protocol of Quantum Teleportation and Remote State Preparation (RSP)
 
 **Level:** Intermediate
