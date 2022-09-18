@@ -7,7 +7,9 @@ The following represents the description of each research project.
 # #01: Bidirectional Controlled Hybrid Protocol of Quantum Teleportation and Remote State Preparation (RSP)
 
 Level: Intermediate
+
 Number of Group Members: 2-3
+
 Mentor: Payman Kazemikhah
 
 Pre-requisite: Quantum Computing/ Quantum Teleportation/ Qiskit
