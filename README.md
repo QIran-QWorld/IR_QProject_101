@@ -4,3 +4,4 @@ QIran's QProject101 (IR_QProject_101) is a 12 week long research program designe
 Please read the whole document before asking any questions. You may join the discord server of QIran to connect with us directly.
 
 # Deadlines
+The deadlines are firm.
