@@ -4,7 +4,7 @@ QIran's QProject101 (IR_QProject_101) is a **12 week** long research program des
 Please read the whole document before asking any questions. You may join the discord server of QIran to connect with us directly.
 The following represents the description of each research project.
 
-### #01: Bidirectional Controlled Hybrid Protocol of Quantum Teleportation and Remote State Preparation (RSP)
+### #01: Bidirectional Controlled Hybrid Protocol for Quantum Communication (Theory)
 
 **Level:** Intermediate
 
@@ -12,12 +12,12 @@ The following represents the description of each research project.
 
 **Mentor:** Payman Kazemikhah
 
-**Pre-requisite:** Quantum Computing/ Quantum Teleportation/ Qiskit
+**Pre-requisite:** Quantum Computing/ Qiskit
 
-**Abstract:** Quantum teleportation (QT) allows the transmission of unknown quantum states between two nodes in a quantum network. QT utilizes quantum channel (Entangled qubits) and classical channel (conventional bits) to transmit the information. If the information transmission works at both ends and at the same time, the protocol is considered as bidirectional quantum teleportation (BQT). Moreover, if the teleportation happens under the supervision of a third party, the protocol is called controlled quantum teleportation (CQT). Remote state preparation (RSP) is another quantum communication protocol in which a quantum state is prepared remotely and the information is not unknown.
-The final goal is to design a hybrid controlled protocol of quantum teleportation and remote state preparation. In this protocol, sender (Alice) tends to transmit an unknown quantum state to a receiver (Bob). At the same time, Bob wants to prepare a predefined and known quantum state to Alice, remotely. The whole information transmission occurs only when the supervisor, i.e. Charlie (the controller) inform his consent and allows the transmission of information.
+**Abstract:** Quantum Protocols allows the transmission of unknown quantum states between two nodes in a quantum network. QT utilizes quantum channel (Entangled qubits) and classical channel (conventional bits) to transmit the information. If the information transmission works at both ends and at the same time, the protocol is considered as bidirectional quantum protocol (BQT). Moreover, if the protocol happens under the supervision of a third party, the protocol is called controlled quantum protocol (CQT). Remote state preparation (RSP) is another quantum communication protocol in which a quantum state is prepared remotely and the information is not unknown.
+The final goal is to design a hybrid controlled protocol of quantum protocol and remote state preparation. In this protocol, sender (Alice) tends to transmit an unknown quantum state to a receiver (Bob). At the same time, Bob wants to prepare a predefined and known quantum state to Alice, remotely. The whole information transmission occurs only when the supervisor, i.e. Charlie (the controller) inform his consent and allows the transmission of information.
 
-### #02: A Survey for Designing a Superconducting Quantum Device/Chip using Open-Source Packages
+### #02: A Survey Quantum Hardware tools using Open-Source Packages (Theory)
 
 **Level:** Intermediate
 
@@ -25,15 +25,20 @@ The final goal is to design a hybrid controlled protocol of quantum teleportatio
 
 **Mentor:** Payman Kazemikhah
 
-**Pre-requisite:** Superconductive Qubits / Quantum Computers / Python / (Appropriate for Bachelor or Master Students in Physics and Electrical Eng.)
+**Pre-requisite:** Physics/ RF Electronics /Python/ Qubits
+(Appropriate for Bachelor or Master Students in Physics and Electrical Eng.)
 
-**Abstract:** Superconducting qubits are one of the most mature technologies to make quantum computers a reality. They’re considered as one of the frontrummers to build quantum processors. Gladly, students can use software packages to design/optimize relevant devices/chips to this technology. The provided open-source packages allow students to design qubits, resonators, control and read-out circuits. Moreover, you can see the results and characteristics of your simulated device using coding and workflows.
-The goal of the research is to investigate the open-source and accessible software packages for designing superconductive technology. The group members must go through all of the libraries and options to examine the full potential of each package. The four developed packages for superconductive qubits are the following:
+**Abstract:**  Transmon qubits are one of the most mature technologies to make scalable chips a reality. They’re considered as one of the frontrunners to build processors. Gladly, students can use software packages to design/optimize relevant devices/chips to this technology. The provided open source packages allow students toa design qubits, resonators, control and read out circuits. Moreover, you can see the results and characteristics of your simulated device using coding and workflows.
+The goal of the research is to investigate the open-source and accessible software packages for designing qubit technology. The group members must go through all of the libraries and options to examine the full potential of each package. The four developed packages for qubits are the following:
 1. Qiskit Metal (IBM Company)
 2. KQCircuits (IQM Company)
 3. SQCircuit (Stanford University)
 4. scQubits (University of Chicago)
-After acquainted with the basics of superconductive qubits, the group members must get to know each package and try to present simple codes and workflows required to design the devices. Then, provide a detailed report of the functionality and the features of each software package.
+5. Palace (Amazon Braket)
+6. Keysight ADS
+
+After acquainted with the basics of transmon qubits, the group members must get to know each package and try to present simple codes and workflows required to design the devices. Then, provide a detailed report of the functionality and the features of each software package.
+
 
 ### #03: Quantum Image Processing and Representation
 
