@@ -21,8 +21,6 @@ The final goal is to design a hybrid controlled protocol of quantum protocol and
 
 **Number of Group Members:** 4-5
 
-**Mentor:** Payman Kazemikhah
-
 **Pre-requisite:** Physics/ RF Electronics /Python/ Qubits
 (Appropriate for Bachelor or Master Students in Physics and Electrical Eng.)
 
