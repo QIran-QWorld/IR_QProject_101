@@ -10,8 +10,6 @@ The following represents the description of each research project.
 
 **Number of Group Members:** 2-3
 
-**Mentor:** Payman Kazemikhah
-
 **Pre-requisite:** Quantum Computing/ Qiskit
 
 **Abstract:** Quantum Protocols allows the transmission of unknown quantum states between two nodes in a quantum network. QT utilizes quantum channel (Entangled qubits) and classical channel (conventional bits) to transmit the information. If the information transmission works at both ends and at the same time, the protocol is considered as bidirectional quantum protocol (BQT). Moreover, if the protocol happens under the supervision of a third party, the protocol is called controlled quantum protocol (CQT). Remote state preparation (RSP) is another quantum communication protocol in which a quantum state is prepared remotely and the information is not unknown.
